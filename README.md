@@ -24,3 +24,6 @@ This is the collection of 3D reconstruction and depth fusion methods
 2.Learning a multi-view stereo matching:https://github.com/akar43/lsm (a network for multi-view reconstruction, provide some useful operations like projection and reprojection in network)
 
 3.SurfaceNet:https://github.com/mjiUST/SurfaceNet (a network for 2D->3D reconstruction)
+
+# SLAM
+1. Tutorial: https://github.com/OpenSLAM/awesome-SLAM-list/blob/master/README.md
